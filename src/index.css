@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+background-color: darkolivegreen;
+}
+
+.correct {
+  font-weight: bold;
+  color: green;
+  background-color: whitesmoke;
+}
+.incorrect {
+  font-weight: bold;
+  color: red;
+  background-color: whitesmoke;
+}
+.active {
+  font-weight: bold;
+}
